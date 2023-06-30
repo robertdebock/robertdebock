@@ -1,6 +1,6 @@
 ### A creative nerd
 
-I like nerding-out, specifically around [Ansible](https://github.com/ansible/ansible), automated test and infrastucture.
+I like nerding-out, specifically around [Ansible](https://github.com/ansible/ansible) and [Terraform](https://www.terraform.io) automated test and infrastucture.
 
 Always willing to help, love to learn and work with people.
 
